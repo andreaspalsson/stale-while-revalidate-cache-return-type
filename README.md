@@ -1,0 +1,1 @@
+# stale-while-revalidate-cache-return-type
